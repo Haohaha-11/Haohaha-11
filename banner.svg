@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+  <title id="title">Hao Jiang — Vision, Language, Medical AI</title>
+  <desc id="desc">A purple and indigo research themed banner for the Haohaha-11 GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#24113f"/>
+      <stop offset="48%" stop-color="#5b1f75"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="45%" r="62%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity=".50"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="24" fill="url(#glow)"/>
+  <rect x="34" y="34" width="1532" height="352" rx="18" fill="url(#grid)" stroke="#fff" stroke-opacity=".16"/>
+  <g fill="none" stroke="#e9d5ff" stroke-opacity=".52" stroke-width="2">
+    <path d="M1030 88c64 28 70 88 132 94s91-57 150-36 41 94 126 126"/>
+    <path d="M1080 300c50-56 110-47 155-8s93 42 160-22"/>
+    <circle cx="1030" cy="88" r="8" fill="#f0abfc" stroke="none"/>
+    <circle cx="1162" cy="182" r="8" fill="#93c5fd" stroke="none"/>
+    <circle cx="1312" cy="146" r="8" fill="#f0abfc" stroke="none"/>
+    <circle cx="1438" cy="272" r="8" fill="#93c5fd" stroke="none"/>
+  </g>
+  <g fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="108" y="154" font-size="24" letter-spacing="5" fill="#e9d5ff">HAOHAHA-11 · GITHUB PROFILE</text>
+    <text x="108" y="236" font-size="64" font-weight="700">Hao Jiang</text>
+    <text x="112" y="284" font-size="28" fill="#ddd6fe">Vision × Language × Medical AI</text>
+    <text x="112" y="334" font-size="19" fill="#c4b5fd">Research prototypes · reproducible experiments · open-source tools</text>
+  </g>
+</svg>
