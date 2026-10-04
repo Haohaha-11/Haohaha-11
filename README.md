@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Hao Jiang — Vision, Language, Medical AI" width="100%" />
+  <img src="./banner.png" alt="Hao Jiang — AI research picnic with a blue mascot, robots, and a playful cartoon companion" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Hao Jiang 👋</h1>
