@@ -2,7 +2,9 @@
   <img src="./banner-v2.png" alt="Hao Jiang — AI research picnic with a blue mascot wearing an electric-heart-me shirt, robots, and a playful cartoon companion" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Hao Jiang 👋</h1>
+<h1 align="center">
+  <img src="./title.svg" alt="Hi, I'm Hao Jiang" width="520" />
+</h1>
 
 <p align="center">
   <strong>AI Researcher · Computer Vision · Large Language Models · Medical AI</strong>
@@ -14,14 +16,14 @@
   <a href="#connect">Connect</a>
 </p>
 
-> I build research prototypes and practical tools at the intersection of vision, language, and healthcare. I care about turning paper ideas into reproducible experiments, clear technical writing, and usable open-source projects.
+> Third-year UESTC undergraduate in Fundamental Science of Mathematics & Physics (AI). I first worked on image processing, computational pathology, and image compression with Prof. Liangjian Deng, then moved toward LLM test-time learning and multimodal latent memory. I am currently a research intern with Prof. Shanghang Zhang at Peking University, exploring world-model memory and spatial memory.
 
 ## About me
 
-- 🔬 Research interests: computer vision, LLMs, multimodal learning, and medical AI
-- 🧪 I turn paper ideas into reproducible experiments and open-source tools
-- ✍️ I care about clear technical communication and reliable research workflows
-- 🎓 Math & Physics student at the University of Electronic Science and Technology of China
+- 🎓 Third-year student at UESTC, majoring in Fundamental Science of Mathematics & Physics with an AI focus
+- 🔬 Research path: image processing → computational pathology and image compression → large language models
+- 🧠 Current interests: LLM test-time learning, multimodal latent memory, and reliable medical AI
+- 🧭 Current internship focus at PKU: world-model memory and spatial memory
 
 ## Selected projects
 
@@ -49,9 +51,9 @@
 
 ## Currently exploring
 
-- Multimodal learning and robust evaluation
+- World-model memory and spatial memory
+- LLM test-time learning and multimodal latent memory
 - Reliable, reproducible AI systems for healthcare
-- Better tooling for research communication and collaboration
 
 ## Connect
 
